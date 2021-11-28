@@ -9,4 +9,4 @@ MarkupSafe
 numpy
 pandas
 scikit-learn
-werzeug
+Werkzeug>=2.0
